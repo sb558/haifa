@@ -1,0 +1,26 @@
+/* You can add global styles to this file, and also import other style files */
+/* @import "~@angular/material/prebuilt-themes/deeppurple-amber.css"; */
+
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #1f1861;
+}
+
+.light-text {
+  color: #b3b2c2;
+}
+
+/* .expanded-toolbar {
+  justify-content: space-between;
+} */
+
+h1 {
+  text-align: center;
+  color: white;
+}
+
+.gradient {
+  background-image: linear-gradient(to right, #1f1861 , #496a8a);
+}
+
